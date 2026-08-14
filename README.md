@@ -1,4 +1,4 @@
-# Hi, I’m Jeffrey (Wen-Chia) Yang 👋
+# Hi, I’m Wen-Chia Yang 👋
 
 I’m a Backend Lead and Senior Go Engineer based in Taipei, Taiwan. I design and operate distributed backend systems for real-time products, with experience spanning service architecture, event-driven workflows, data consistency, cloud infrastructure, production recovery, and engineering leadership.
 
@@ -14,21 +14,21 @@ I’m a Backend Lead and Senior Go Engineer based in Taipei, Taiwan. I design an
 
 I prefer diagram-first and event-driven design, explicit service and data boundaries, architecture reviews, testable delivery plans, and visible human ownership of production decisions.
 
-I also build governed AI-assisted engineering workflows that connect requirement clarification, architecture, task decomposition, implementation, independent verification, and human approval. One workflow reduced typical API-document drafting and review time from approximately 30 minutes to under five minutes. AI helps increase engineering leverage; merge, deployment, security, and accountability remain human-controlled.
+I also built and operate `ai-teams`, a governed system where AI agents perform engineering work while a human keeps the veto. The workflow connects requirements, immutable planning, implementation, independent verification, and approval-gated operations. Agents do not autonomously commit, merge, deploy, execute production changes, or perform on-chain signing.
 
 ## Core Technologies
 
 `Go` · `NATS` · `PostgreSQL` · `Redis` · `WebSocket` · `REST` · `GCP` · `GKE` · `Kubernetes` · `GitLab CI` · `Swift` · `C#`
 
-## Public Work
+## Current Focus
 
-Most of my recent production work is company-owned and cannot be published directly. I am rebuilding this profile around independently created examples and sanitized case studies that demonstrate:
+Most of my recent production work is company-owned and cannot be published directly. I am building independently created examples and sanitized case studies around:
 
 - real-time Go service design and failure handling;
-- human-governed AI-assisted software delivery;
+- human-governed AI-operated software delivery;
 - distributed-system scaling, idempotency, and operational recovery.
 
-No proprietary source code, internal configuration, customer data, or private operational details will be included.
+No proprietary source code, internal configuration, customer data, or private operational details are included.
 
 ## Let’s Connect
 
